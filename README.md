@@ -29,8 +29,8 @@ Interested in Medical Imaging, Ultrasound Image Reconstruction, and Deep Learnin
 
 | Degree | Institution | Period |
 |---|---|---|
-| MSc Image Analysis & Machine Learning | Uppsala University, Sweden | 2024 – present |
-| BSc Computer Science | University of Calcutta, India | 2020 – 2025 |
+| MSc Image Analysis & Machine Learning | Uppsala University, Sweden | 2025 – present |
+| BSc Computer Science | University of Calcutta, India | 2020 – 2023 |
 
 ---
 
